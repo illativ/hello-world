@@ -1,2 +1,5 @@
 # hello-world
-Just first repository for my projects
+
+Hello humans!
+
+My name is Vitalii and i'm new here! Glad to see you here :)
