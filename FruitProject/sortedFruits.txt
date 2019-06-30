@@ -1,0 +1,6 @@
+[Fruit {name=Apple, color=Green}
+, Fruit {name=Grapefruit, color=Orange, contain vitamin C=10}
+, Fruit {name=Lemon, color=Yellow, contain vitamin C=15}
+, Fruit {name=Peach, color=Orange}
+, Fruit {name=Pomelo, color=Yellow, contain vitamin C=12}
+]

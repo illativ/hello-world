@@ -1,0 +1,17 @@
+1) Create a Fruit class, that contains: 
+ - fields name and color;
+ - constructor with params;
+ - methods input() and print() for reading and output data from console;
+ - properties for fields (get/set methods);
+ - override toString() method;
+
+2) Create class Citrus that extends from class Fruit, that contains: 
+ - field - vitamin C content;
+ - property for this field;
+ - constructor with params;
+ - override methods input(), print() and toString();
+
+3) Create a List of fruits and add 5 different fruits and citrus to it:
+ - print data for those fruits whose color is 'yellow';
+ - sort the list of fruits by name and output the result to a file;
+ - handle exceptional situations;
